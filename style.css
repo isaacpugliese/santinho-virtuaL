@@ -1,0 +1,116 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(129, 105, 37);
+    text-align: center;
+    
+}
+
+img {
+  border: 20px solid #363944;
+  width: 80%;
+  height: auto;
+  background: #f5f2ee;
+  margin-left: auto;
+  margin-right:auto ;
+}
+
+#foto {
+
+    image-resolution: 100%;
+    display: block;
+    
+}
+
+#santinho {
+    font-size: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.7);
+    border-left: 5px solid rgba(0, 0, 0, 0.7);
+    border-right: 5px solid rgba(0,0,0,.5);
+    border-bottom: 5px solid rgba(0,0,0,.5);
+    margin: 15px 15px;
+    padding: 8px;
+}
+
+h1 {
+  font-size: 30px;
+  border-top: 5px solid rgba(0, 0, 0, 0.7);
+  border-left: 5px solid rgba(0, 0, 0, 0.7);
+  border-right: 5px solid rgba(0,0,0,.5);
+  border-bottom: 5px solid rgba(0,0,0,.5);
+  margin: 15px 15px;
+  padding: 8px;
+}
+
+#level { 
+    text-align: right;
+    color: yellow;
+    margin: 10px 40px;
+}
+
+#cargo {
+    font-size: 30px;
+  border-top: 5px solid rgba(0, 0, 0, 0.7);
+  border-left: 5px solid rgba(0, 0, 0, 0.7);
+  border-right: 5px solid rgba(0,0,0,.5);
+  border-bottom: 5px solid rgba(0,0,0,.5);
+  margin: 15px 15px;
+  padding: 8px;
+}
+   
+
+#slogan {
+    font-size: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.7);
+    border-left: 5px solid rgba(0, 0, 0, 0.7);
+    border-right: 5px solid rgba(0,0,0,.5);
+    border-bottom: 5px solid rgba(0,0,0,.5);
+    margin: 15px 15px;
+    padding: 8px;
+}
+
+#final {
+    font-size: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.7);
+    border-left: 5px solid rgba(0, 0, 0, 0.7);
+    border-right: 5px solid rgba(0,0,0,.5);
+    border-bottom: 5px solid rgba(0,0,0,.5);
+    margin: 15px 15px;
+    padding: 8px;
+}
+
+#numero {
+    font-size: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.7);
+    border-left: 5px solid rgba(0, 0, 0, 0.7);
+    border-right: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgba(0,0,0,.5);
+    margin: 15px 15px;
+    padding: 8px;
+    
+    
+}
+
+#partido {
+    font-size: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.7);
+    border-left: 5px solid rgba(0, 0, 0, 0.7);
+    border-right: 5px solid rgba(0,0,0,.5);
+    border-bottom: 5px solid rgba(0,0,0,.5);
+    margin: 15px 15px;
+    padding: 8px;
+
+}
+
+#stats {
+    margin-top: 40px;
+    border-top: 2px solid #000;
+    text-align: right;
+}
+
+#copy{
+
+    color: black;
+}
